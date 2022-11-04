@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "d8abaf59ed6f8ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2449a7fda9863b5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0299ad0439573bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f6ddf1c7d6024de",
+    "type": "split",
+    "children": [
+      {
+        "id": "cde011948dc53f9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "015ef5961850ab97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dec39c70e9e19e07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f315af3c82662a17",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5
+  },
+  "right": {
+    "id": "921bc67ad0030a79",
+    "type": "split",
+    "children": [
+      {
+        "id": "009063a294dd5ad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c98cb7429eb41208",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "537dab6833b88076",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88799b281ea6364a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "381e8d66a8446c28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0299ad0439573bde",
+  "lastOpenFiles": [
+    "实践/前端/初始化项目.md",
+    "官网/官方文档链接.md"
+  ]
+}
