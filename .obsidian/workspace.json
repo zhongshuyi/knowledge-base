@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2449a7fda9863b5b",
+        "id": "d77b02d6d2d4f7d6",
         "type": "tabs",
         "children": [
           {
-            "id": "0299ad0439573bde",
+            "id": "d7b453c50265d7ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "实践/前端/初始化项目.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "实践/前端/初始化项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "实践/前端/初始化项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "实践/前端/初始化项目.md"
               }
             }
           }
@@ -136,9 +136,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0299ad0439573bde",
+  "active": "d7b453c50265d7ca",
   "lastOpenFiles": [
+    "基础/Git.md",
     "实践/前端/初始化项目.md",
+    "README.md",
     "官网/官方文档链接.md"
   ]
 }

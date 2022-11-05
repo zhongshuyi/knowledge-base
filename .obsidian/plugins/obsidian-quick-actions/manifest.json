@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-quick-actions",
+	"name": "Quick Actions Plugin",
+	"version": "1.0.1",
+	"minAppVersion": "0.12.0",
+	"description": "This is a sample plugin for Obsidian which add some command for changing headline level and adding code block",
+	"author": "SBW",
+	"isDesktopOnly": true
+}

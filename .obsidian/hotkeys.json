@@ -7,5 +7,22 @@
       ],
       "key": "D"
     }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "markdown-importer:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
   ]
 }
