@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e9edf789c8939093",
+        "id": "fbea42635a24723c",
         "type": "tabs",
         "children": [
           {
-            "id": "9d2deb057dbfa745",
+            "id": "154f739e0a13c313",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "基础/Java 基础/安装 Java 环境.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "基础/Java 基础/安装 Java 环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "基础/Java 基础/安装 Java 环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "基础/Java 基础/安装 Java 环境.md"
+              }
             }
           }
         ],
@@ -128,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9d2deb057dbfa745",
+  "active": "154f739e0a13c313",
   "lastOpenFiles": [
+    "images/Pasted.md",
+    "基础/Java 基础/安装 Java 环境.md",
+    "基础/Java 基础/images/Pasted image 20221108225231.png",
+    "Pasted.md",
+    "Pasted image 20221108224524.png",
     "规范/README 文件规范.md",
     "规范/Java 编程规约.md",
     "规范/Git 提交信息规范.md",
     "规范/中文文档写作与排版规范.md",
-    "规范/语义版本规范.md",
-    "实践/前端/1初始化项目.md",
-    "实践/前端/2封装.md",
-    "面试/Java 基础.md",
-    "基础/Git.md",
-    "README.md"
+    "规范/语义版本规范.md"
   ]
 }

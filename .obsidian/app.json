@@ -1,5 +1,9 @@
 {
   "showLineNumber": true,
   "spellcheck": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "./images",
+  "useMarkdownLinks": true,
+  "newFileLocation": "current"
 }
