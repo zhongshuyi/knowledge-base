@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "fbea42635a24723c",
+        "id": "4172537ff83f6e27",
         "type": "tabs",
         "children": [
           {
-            "id": "154f739e0a13c313",
+            "id": "6693dc4a4e7552c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础/Java 基础/安装 Java 环境.md",
+                "file": "基础/工具/Maven.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef4047c26d9610cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践/后端/SpringCloudAlibaba/1微服务环境搭建.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30ab65a54b095716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践/后端/SpringCloudAlibaba/2NacosDiscovery--服务治理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ce3333b434d43ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践/后端/SpringCloudAlibaba/1微服务环境搭建.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9401a6873ce1c43c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础/SpringBoot/自动化配置.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -38,7 +87,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -69,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 270.5
   },
   "right": {
     "id": "921bc67ad0030a79",
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础/Java 基础/安装 Java 环境.md",
+                "file": "基础/SpringBoot/自动化配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础/Java 基础/安装 Java 环境.md",
+                "file": "基础/SpringBoot/自动化配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础/Java 基础/安装 Java 环境.md"
+                "file": "基础/SpringBoot/自动化配置.md"
               }
             }
           }
@@ -136,17 +185,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "154f739e0a13c313",
+  "active": "9401a6873ce1c43c",
   "lastOpenFiles": [
-    "images/Pasted.md",
+    "实践/后端/SpringCloudAlibaba/1微服务环境搭建.md",
+    "实践/后端/SpringCloudAlibaba/3Gateway 网关.md",
+    "实践/后端/SpringCloudAlibaba/2NacosDiscovery--服务治理.md",
+    "基础/工具/Maven.md",
+    "基础/工具/Git.md",
+    "实践/前端/1初始化项目.md",
+    "基础/工具/images/Pasted image 20221115161256.png",
+    "官网/官方文档链接.md",
     "基础/Java 基础/安装 Java 环境.md",
-    "基础/Java 基础/images/Pasted image 20221108225231.png",
-    "Pasted.md",
-    "Pasted image 20221108224524.png",
-    "规范/README 文件规范.md",
-    "规范/Java 编程规约.md",
-    "规范/Git 提交信息规范.md",
-    "规范/中文文档写作与排版规范.md",
-    "规范/语义版本规范.md"
+    "实践/前端/2封装.md"
   ]
 }
