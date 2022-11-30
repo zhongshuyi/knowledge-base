@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础/数据库/elasticsearch.md",
+                "file": "实践/前端/2项目全局配置与动态配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础/数据库/elasticsearch.md",
+                "file": "实践/前端/2项目全局配置与动态配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础/数据库/elasticsearch.md",
+                "file": "实践/前端/2项目全局配置与动态配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础/数据库/elasticsearch.md"
+                "file": "实践/前端/2项目全局配置与动态配置.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "8b8ec610b2905ba8",
   "lastOpenFiles": [
-    "基础/后端/Java 基础/安装 Java 环境.md",
-    "基础/前端/TypeScript/高级类型.md",
-    "实践/后端/SpringCloudAlibaba/1微服务环境搭建.md",
-    "基础/工具/Maven.md",
-    "基础/后端/SpringBoot/自动化配置.md",
-    "实践/后端/SpringCloudAlibaba/3Gateway 网关.md",
-    "实践/后端/SpringCloudAlibaba/2NacosDiscovery--服务治理.md",
-    "基础/工具/Git.md",
     "实践/前端/1初始化项目.md",
-    "基础/工具/images/Pasted image 20221115161256.png"
+    "实践/前端/2项目全局配置与动态配置.md",
+    "基础/工具/Maven.md",
+    "基础/工具/Git.md",
+    "基础/前端/TypeScript/高级类型.md",
+    "基础/数据库/elasticsearch.md",
+    "基础/后端/Java 基础/安装 Java 环境.md",
+    "实践/后端/SpringCloudAlibaba/1微服务环境搭建.md",
+    "基础/后端/SpringBoot/自动化配置.md",
+    "实践/后端/SpringCloudAlibaba/3Gateway 网关.md"
   ]
 }
