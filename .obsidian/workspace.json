@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实践/前端/2项目全局配置与动态配置.md",
+                "file": "基础/数据库/elasticsearch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ea6e00f8d293daf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础/数据库/elasticsearch/1-索引.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实践/前端/2项目全局配置与动态配置.md",
+                "file": "基础/数据库/elasticsearch/1-索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实践/前端/2项目全局配置与动态配置.md",
+                "file": "基础/数据库/elasticsearch/1-索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实践/前端/2项目全局配置与动态配置.md"
+                "file": "基础/数据库/elasticsearch/1-索引.md"
               }
             }
           }
@@ -149,17 +161,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8b8ec610b2905ba8",
+  "active": "1ea6e00f8d293daf",
   "lastOpenFiles": [
-    "实践/前端/1初始化项目.md",
+    "基础/数据库/elasticsearch.md",
+    "基础/数据库/elasticsearch/1-索引.md",
+    "基础/前端/TypeScript/高级类型.md",
     "实践/前端/2项目全局配置与动态配置.md",
+    "实践/前端/1初始化项目.md",
     "基础/工具/Maven.md",
     "基础/工具/Git.md",
-    "基础/前端/TypeScript/高级类型.md",
-    "基础/数据库/elasticsearch.md",
     "基础/后端/Java 基础/安装 Java 环境.md",
     "实践/后端/SpringCloudAlibaba/1微服务环境搭建.md",
-    "基础/后端/SpringBoot/自动化配置.md",
-    "实践/后端/SpringCloudAlibaba/3Gateway 网关.md"
+    "基础/后端/SpringBoot/自动化配置.md"
   ]
 }
